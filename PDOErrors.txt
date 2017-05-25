@@ -1,0 +1,13 @@
+exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in C:\xampp\htdocs\neikee\php\connect.php:12
+Stack trace:
+#0 C:\xampp\htdocs\neikee\php\connect.php(12): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\neikee\login.php(5): include('C:\\xampp\\htdocs...')
+#2 {main}exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in C:\xampp\htdocs\neikee\php\connect.php:12
+Stack trace:
+#0 C:\xampp\htdocs\neikee\php\connect.php(12): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\neikee\login.php(5): include('C:\\xampp\\htdocs...')
+#2 {main}exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in C:\xampp\htdocs\neikee\php\connect.php:12
+Stack trace:
+#0 C:\xampp\htdocs\neikee\php\connect.php(12): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\neikee\login.php(5): include('C:\\xampp\\htdocs...')
+#2 {main}
