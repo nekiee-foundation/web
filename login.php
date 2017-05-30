@@ -941,51 +941,29 @@ else if(isset($_SESSION["Username"])) {
   </div>
   <!-- end main-content -->
   
-  <!-- Footer -->
-  <footer id="footer" class="footer pb-0" data-bg-img="images/footer-bg.png" data-bg-color="#25272e">
+    <!-- Footer -->
+    <footer id="footer" class="footer pb-0" data-bg-img="images/footer-bg.png" data-bg-color="#25272e">
       <div class="container pb-20">
         <div class="row multi-row-clearfix">
           <div class="col-sm-6 col-md-3">
             <div class="widget dark"> <img alt="" src="images/logo.png">
-              <p class="font-12 mt-20 mb-10">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              <a class="text-gray font-12" href="#"><i class="fa fa-angle-double-right text-theme-colored"></i> Read more</a>
+              <p class="font-12 mt-20 mb-10">Spreading awareness and changing lives, forms the core of Neikee. The idea is to awaken the spirit of kindness amongst each one of us and in the process, find good Samaritans & dedicated catalysts who team up as partners in driving this social change forward. On one hand, we are working tirelessly to create a web-based crowd-funding platform that supports these campaigns while on the other, our intent also aims at channelizing corporate CSR funds directly into projects that are close to the respective corporate’s vision of social development.</p>
               <ul class="styled-icons icon-dark mt-20">
-                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".1s" data-wow-offset="10"><a href="#" data-bg-color="#3B5998"><i class="fa fa-facebook"></i></a></li>
-                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".2s" data-wow-offset="10"><a href="#" data-bg-color="#02B0E8"><i class="fa fa-twitter"></i></a></li>
-                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".3s" data-wow-offset="10"><a href="#" data-bg-color="#05A7E3"><i class="fa fa-skype"></i></a></li>
-                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".4s" data-wow-offset="10"><a href="#" data-bg-color="#A11312"><i class="fa fa-google-plus"></i></a></li>
-                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".5s" data-wow-offset="10"><a href="#" data-bg-color="#C22E2A"><i class="fa fa-youtube"></i></a></li>
+                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".1s" data-wow-offset="10"><a href="https://www.facebook.com/neikeeindia" data-bg-color="#3B5998"><i class="fa fa-facebook"></i></a></li>
+                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".2s" data-wow-offset="10"><a href="https://www.twitter.com/neikeeindia" data-bg-color="#02B0E8"><i class="fa fa-twitter"></i></a></li>
+                
+                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".4s" data-wow-offset="10"><a href="https://www.linkedin.com/company-beta/17963039/" data-bg-color="#A11312"><i class="fa fa-linkedin"></i></a></li>
+                
               </ul>
             </div>
           </div>
           <div class="col-sm-6 col-md-3">
             <div class="widget dark">
-              <h5 class="widget-title line-bottom">Projects</h5>
               <ul class="list-border list theme-colored angle-double-right">
                 <li><a href="#">Privacy Policy</a></li>
                 <li><a href="#">Donor Privacy Policy</a></li>
                 <li><a href="#">Disclaimer</a></li>
                 <li><a href="#">Terms of Use</a></li>
-                <li><a href="#">Copyright Notice</a></li>
-                <li><a href="#">Media Center</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-6 col-md-3">
-            <div class="widget dark">
-              <h5 class="widget-title line-bottom">Quick Links</h5>
-              <ul class="list-border list theme-colored angle-double-right">
-                <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Donor Privacy Policy</a></li>
-                <li><a href="#">Disclaimer</a></li>
-                <li><a href="#">Terms of Use</a></li>
-                <li><a href="#">Copyright Notice</a></li>
-                <li><a href="#">Media Center</a></li>
               </ul>
             </div>
           </div>
@@ -993,9 +971,9 @@ else if(isset($_SESSION["Username"])) {
             <div class="widget dark">
               <h5 class="widget-title line-bottom">Quick Contact</h5>
               <ul class="list-border">
-                <li><a href="#">+(012) 345 6789</a></li>
-                <li><a href="#">hello@yourdomain.com</a></li>
-                <li><a href="#" class="lineheight-20">121 King Street, Melbourne Victoria 3000, Australia</a></li>
+                <li><a href="#">Mobile: +91 99101 77722</a></li>
+                <li><a href="#">ankit@neikee.com</a></li>
+                <li><a href="#" class="lineheight-20">DLF City Phase – I, Gurgaon, Haryana</a></li>
               </ul>
               <p class="text-white mb-5 mt-15">Subscribe to our newsletter</p>
               <form id="footer-mailchimp-subscription-form" class="newsletter-form mt-10">
@@ -1039,13 +1017,27 @@ else if(isset($_SESSION["Username"])) {
         </div>
       </div>
     </footer>
-  <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
-</div>
-<!-- end wrapper -->
+    <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+  </div>
+  <!-- end wrapper -->
 
-<!-- Footer Scripts -->
-<!-- JS | Custom script for all pages -->
-<script src="js/custom.js"></script>
+  <!-- Footer Scripts -->
+  <!-- JS | Custom script for all pages -->
+  <script src="js/custom.js"></script>
+
+<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  
+      (Load Extensions only on Local File Systems ! 
+      The following part can be removed on Server for On Demand Loading) -->
+      <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.actions.min.js"></script>
+      <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.carousel.min.js"></script>
+      <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.kenburn.min.js"></script>
+      <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
+      <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.migration.min.js"></script>
+      <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.navigation.min.js"></script>
+      <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.parallax.min.js"></script>
+      <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
+      <script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.video.min.js"></script>
+
 <script> 
         // wait for the DOM to be loaded 
         $('#reg-form').submit(function() { 
